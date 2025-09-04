@@ -1,0 +1,1 @@
+# macfetch.sh
